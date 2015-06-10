@@ -179,3 +179,6 @@
 
 ;; ox-html5slide
 (require 'ox-html5slide)
+
+;; sample
+;; (require hoge)
